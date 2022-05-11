@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.top-text {
+    display: flex;
+    justify-content: center;
+    padding: 4% 4%;
+}
+
+.score {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 30%;
+}
+
+.User-Score {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.options {
+    display: flex;
+    padding: 5% 30%;
+    justify-content: space-around;
+}
+
+.ending-message {
+    display: flex;
+    padding: 0 30%;
+    justify-content: center;
+}
+
+.restart-btn {
+    display: flex;
+    padding: 3% 30%;
+    justify-content: center;
+}
